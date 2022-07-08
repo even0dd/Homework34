@@ -9,7 +9,6 @@ public class Main {
         }
         for (Dog d : dalmatian) {
                 System.out.println(d.toString());
-            System.out.println(dalmatian.size());
             }
         }
     }
